@@ -68,7 +68,7 @@ Adopting digital health records and sharing the data they contain is a critical 
 2. FHIR for CTO: https://www.health-samurai.io/articles/the-fhir-guide-for-ctos-and-technical-leaders
 3. FHIR Training Recordings: https://www.cdc.gov/nchs/data/nvss/modernization/Introductory-Training-FHIR.pdf
 4. FHIR Interoperability Basics: 4 Things to Know https://healthitanalytics.com/news/4-basics-to-know-about-the-role-of-fhir-in-interoperability
-5. Public and free FHIR servers for testing our HL7 FHIR: https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing
+5. Public and free FHIR servers for testing out HL7 FHIR: https://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing
 6. HL7 FHIR Training course https://docplayer.net/40496224-Hl7-fhir-training-course.html
 7. FHIR Standard Explained: Benefits, Components, SMART on FHIR: https://www.altexsoft.com/blog/fhir-standard
 8. Learn how to validate FHIR resource against an IG https://www.linkedin.com/pulse/validate-fhir-resource-against-ig-profile-srinivas-velamuri/?trk=articles_directory
